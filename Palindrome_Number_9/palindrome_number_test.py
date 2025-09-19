@@ -19,4 +19,4 @@ Palindrome_Number_9/palindrome_number_test.py::test_palidrome_number PASSED [100
 
 Process finished with exit code 0
 
-""" 
+"""
